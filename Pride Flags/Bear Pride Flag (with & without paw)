@@ -1,0 +1,5 @@
+<!-- with paw -->
+<div class="rounded d-inline-block" style="background-image:linear-gradient(#623500,#623500 14.3%,#d66300 14.3%,#d66300 28.6%,#fede63 28.6%,#fede63 42.9%,#fee7b9 42.9%,#fee7b9 57.2%,#fff 57.2%,#fff 71.5%,#545454 71.5%,#545454 85.8%,#000 85.8%);line-height:20px;width:26px;"><div style="background:url(https://i.imgur.com/5MJky6y.png) no-repeat 10% 12%;background-size:30%;">&nbsp;</div></div>
+
+<!-- without paw -->
+<div class="rounded d-inline-block" style="background-image:linear-gradient(#623500,#623500 14.3%,#d66300 14.3%,#d66300 28.6%,#fede63 28.6%,#fede63 42.9%,#fee7b9 42.9%,#fee7b9 57.2%,#fff 57.2%,#fff 71.5%,#545454 71.5%,#545454 85.8%,#000 85.8%);line-height:20px;width:26px;">&nbsp;</div>
