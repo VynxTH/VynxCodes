@@ -1,0 +1,8 @@
+<!-- 1 (most common) -->
+<div class="rounded d-inline-block" style="background-image:linear-gradient(#ff8bbf,#ff8bbf 14.3%,#cdf5ff 14.3%,#cdf5ff 28.6%,#9aedff 28.6%,#9aedff 42.9%,#76e0ff 42.9%,#76e0ff 57.2%,#9aedff 57.2%,#9aedff 71.5%,#cdf5ff 71.5%,#cdf5ff 85.8%,#ff8bbf 85.8%);line-height:20px;width:26px;">&nbsp;</div>
+
+<!-- 2 -->
+<div class="rounded d-inline-block" style="background-image:linear-gradient(#00a2e8,#00a2e8 20%,#1c0697 20%,#1c0697 40%,#c0f4fe 40%,#c0f4fe 60%,#1c0697 60%,#1c0697 80%,#00a2e8 80%);line-height:20px;width:26px;">&nbsp;</div>
+
+<!-- 3 -->
+<div class="rounded d-inline-block" style="background-image:linear-gradient(#fff,#fff 25%,#5fcdf5 25%,#5fcdf5 50%,#456fb6 50%,#456fb6 75%,#2b2d2d 75%);line-height:20px;width:26px;">&nbsp;</div>
