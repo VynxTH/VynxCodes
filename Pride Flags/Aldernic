@@ -1,0 +1,5 @@
+<!-- with lozenge -->
+<div class="rounded d-inline-block" style="background-image:linear-gradient(#5d59a3,#5d59a3 14.3%,#80dae3 14.3%,#80dae3 28.6%,#adf7d6 28.6%,#adf7d6 42.9%,#fffdd8 42.9%,#fffdd8 57.2%,#fbc5d2 57.2%,#fbc5d2 71.5%,#d07fe5 71.5%,#d07fe5 85.8%,#5d59a3 85.8%);line-height:20px;width:26px;"><div class="d-inline-block" style="background:#000;clip-path:polygon(50% 18%,70% 50%,50% 82%,30% 50%);width:100%;"><div class="d-inline-block" style="background:#fff;clip-path:polygon(50% 20%,68% 50%,50% 80%,32% 50%);width:100%;">&nbsp;</div></div></div>
+
+<!-- without lozenge -->
+<div class="rounded d-inline-block" style="background-image:linear-gradient(#5d59a3,#5d59a3 14.3%,#80dae3 14.3%,#80dae3 28.6%,#adf7d6 28.6%,#adf7d6 42.9%,#fffdd8 42.9%,#fffdd8 57.2%,#fbc5d2 57.2%,#fbc5d2 71.5%,#d07fe5 71.5%,#d07fe5 85.8%,#5d59a3 85.8%);line-height:20px;width:26px;">&nbsp;</div>
