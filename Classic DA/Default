@@ -1,1 +1,186 @@
-tba
+<div class="row no-gutters" style="color:#2c3635;font-family:trebuchet MS,verdana,sans-serif;font-size:9pt;">
+  <div class="col-md-6 pr-md-2">
+    <!--top start-->
+    <div class="w-100" style="background:#e6ede4;font-size:13.5pt;border-radius:7.2px 7.2px 0 0">
+      <div class="d-block" style="background:#a6b2a6;height:1px;margin:0 4px;border:0;"></div>
+      <div class="d-block" style="border-color:#a6b2a6;border-width:2px;margin:0 4px;height:1px;position:relative;z-index:30;margin:0 2px;border-style:none solid;background:#F2FCF1;"></div>
+      <div class="d-block" style="border-color:#a6b2a6;margin:0 1px;border-width:1px;border-style:none solid;height:2px;"><div class="d-block" style="border-color:#F2FCF1;border-style:none solid;height:2px;border-width:2px;"></div></div>
+      <div style="border:1px solid #a6b2a6;border-top:none;">
+        <div style="height:30px;padding:0 64px 0 8px;border-left:1px solid #F2FCF1;border-right:1px solid #F2FCF1;font-family:trebuchet ms,verdana,sans-serif;">
+          <div class="pull-left" style="background:url(https://st.deviantart.net/minish/gruzecontrol/icons-small-modules.gif?14);height:24px;width:29px;background-position:-160px 3px;"></div>
+            Featured
+          <div style="background:url(https://st.deviantart.net/minish/gruzecontrol/quadraforce.gif?6) 0 0;height:20px;width:15px;margin-top:-8px;margin-left:3px;position:relative;"></div>
+        </div>
+      </div>
+    </div><!--top end-->
+  
+  <!--container start-->
+    <div class="w-100 mb-3" style="border-radius:0 0 7.5px 7.5px;background:#dae4d9;">
+      <div style="border:1px solid #a6b2a6;border-top:none;border-bottom:none;">
+        <div class="d-block" style="background:#e1ebe2;height:1px;border:0;"></div>
+        <div class="mx-auto py-1 d-block" style="width:70%;">
+          
+          <a href="CharaLinkHere"><img src="https://f2.toyhou.se/file/f2-toyhou-se/users/admin?7" class="d-block mx-auto"/></a>
+  
+          <p style="margin-top:10px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur varius odio ac urna convallis sagittis. Morbi at suscipit ante. Sed scelerisque metus ultrices lacus lobortis, ac vehicula purus volutpat. Maecenas mi felis, commodo nec congue eget, pretium dictum mi. Curabitur tincidunt enim nisi, quis bibendum nibh faucibus in.</p>
+        </div>
+      </div>
+      <div class="d-block" style="border-color:#a6b2a6;margin:0 1px;border-width:1px;border-style:none solid;height:2px;"><div class="d-block" style="border-color:#e1ebe2;border-style:none solid;height:2px;border-width:2px;"></div></div>    
+      <div class="d-block" style="border-color:#a6b2a6;border-width:2px;margin:0 4px;height:1px;margin:0 2px;border-style:none solid;"></div>
+      <div class="d-block" style="background:#a6b2a6;height:1px;margin:0 4px;border:0;"></div>
+    </div><!--container end-->
+  
+    <!--top start-->
+    <div class="w-100" style="background:#e6ede4;font-size:13.5pt;border-radius:7.2px 7.2px 0 0">
+      <div class="d-block" style="background:#a6b2a6;height:1px;margin:0 4px;border:0;"></div>
+      <div class="d-block" style="border-color:#a6b2a6;border-width:2px;margin:0 4px;height:1px;position:relative;z-index:30;margin:0 2px;border-style:none solid;background:#F2FCF1;"></div>
+      <div class="d-block" style="border-color:#a6b2a6;margin:0 1px;border-width:1px;border-style:none solid;height:2px;"><div class="d-block" style="border-color:#F2FCF1;border-style:none solid;height:2px;border-width:2px;"></div></div>
+      <div style="border:1px solid #a6b2a6;border-top:none;">
+        <div style="height:30px;padding:0 64px 0 8px;border-left:1px solid #F2FCF1;border-right:1px solid #F2FCF1;font-family:trebuchet ms,verdana,sans-serif;">
+          <div class="pull-left" style="background:url(https://st.deviantart.net/minish/gruzecontrol/icons-small-modules.gif?14);height:24px;width:29px;background-position:-1000px 3px;"></div>
+          Title
+          <div style="background:url(https://st.deviantart.net/minish/gruzecontrol/quadraforce.gif?6) 0 0;height:20px;width:15px;margin-top:-8px;margin-left:3px;position:relative;"></div>
+        </div>
+      </div>
+    </div><!--top end-->
+  
+    <!--container start-->
+    <div class="w-100 mb-3" style="border-radius:0 0 7.5px 7.5px;background:#dae4d9;">
+      <div style="border:1px solid #a6b2a6;border-top:none;border-bottom:none;">
+        <div class="d-block" style="background:#e1ebe2;height:1px;border:0;"></div>
+        <div class="mx-auto py-1 d-block" style="width:70%;">
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur varius odio ac urna convallis sagittis. Morbi at suscipit ante. Sed scelerisque metus ultrices lacus lobortis, ac vehicula purus volutpat. Maecenas mi felis, commodo nec congue eget, pretium dictum mi. Curabitur tincidunt enim nisi, quis bibendum nibh faucibus in. Praesent pellentesque lacinia accumsan. Proin tempor et risus a condimentum. Nullam eleifend nulla id orci euismod, ac accumsan mauris lacinia. Maecenas est mauris, blandit tempus turpis at, hendrerit bibendum ligula. Nam sed aliquam ante. Suspendisse potenti. </p>
+        </div>
+      </div>
+      <div class="d-block" style="border-color:#a6b2a6;margin:0 1px;border-width:1px;border-style:none solid;height:2px;"><div class="d-block" style="border-color:#e1ebe2;border-style:none solid;height:2px;border-width:2px;"></div></div>    
+      <div class="d-block" style="border-color:#a6b2a6;border-width:2px;margin:0 4px;height:1px;margin:0 2px;border-style:none solid;"></div>
+      <div class="d-block" style="background:#a6b2a6;height:1px;margin:0 4px;border:0;"></div>
+    </div><!--container end-->
+  
+    <!--top start-->
+    <div class="w-100" style="background:#e6ede4;font-size:13.5pt;border-radius:7.2px 7.2px 0 0">
+      <div class="d-block" style="background:#a6b2a6;height:1px;margin:0 4px;border:0;"></div>
+      <div class="d-block" style="border-color:#a6b2a6;border-width:2px;margin:0 4px;height:1px;position:relative;z-index:30;margin:0 2px;border-style:none solid;background:#F2FCF1;"></div>
+      <div class="d-block" style="border-color:#a6b2a6;margin:0 1px;border-width:1px;border-style:none solid;height:2px;"><div class="d-block" style="border-color:#F2FCF1;border-style:none solid;height:2px;border-width:2px;"></div></div>
+      <div style="border:1px solid #a6b2a6;border-top:none;">
+        <div style="height:30px;padding:0 64px 0 8px;border-left:1px solid #F2FCF1;border-right:1px solid #F2FCF1;font-family:trebuchet ms,verdana,sans-serif;">
+          <div class="pull-left" style="background:url(https://st.deviantart.net/minish/gruzecontrol/icons-small-modules.gif?14);height:24px;width:29px;background-position:-920px 3px;"></div>
+          Bulletin History
+          <div style="background:url(https://st.deviantart.net/minish/gruzecontrol/quadraforce.gif?6) 0 0;height:20px;width:15px;margin-top:-8px;margin-left:3px;position:relative;"></div>
+        </div>
+      </div>
+    </div><!--top end-->
+    
+    <!--container start-->
+    <div class="w-100 mb-3" style="border-radius:0 0 7.5px 7.5px;background:#dae4d9;">
+      <div style="border:1px solid #a6b2a6;border-top:none;border-bottom:none;">
+        <div class="d-block" style="background:#e1ebe2;height:1px;border:0;"></div>
+        <div class="mx-auto d-block pt-1">
+          <div style="padding:0 0 2px 8%;"><a href="/YOURUSERHERE/bulletins" style="color:#196ba7">Bulletin Title</a> <div class="pull-right pr-3">Month 0, 20XX</div></div>
+          <div style="padding:2px 0 2px 8%;background:#ccd9cd;"><a href="/YOURUSERHERE/bulletins" style="color:#196ba7">Bulletin Title</a> <div class="pull-right pr-3">Month 0, 20XX</div></div>
+          <div style="padding:2px 0 2px 8%;"><a href="/YOURUSERHERE/bulletins" style="color:#196ba7">Bulletin Title</a> <div class="pull-right pr-3">Month 0, 20XX</div></div>
+          <div style="padding:2px 0 2px 8%;background:#ccd9cd;"><a href="/YOURUSERHERE/bulletins" style="color:#196ba7">Bulletin Title</a> <div class="pull-right pr-3">Month 0, 20XX</div></div>
+          <center style="padding:2px 0 2px 0;"><a href="/YOURUSERHERE/bulletins" style="color:#196ba7">See all bulletins</a></center>
+        </div>
+      </div>
+      <div class="d-block" style="border-color:#a6b2a6;margin:0 1px;border-width:1px;border-style:none solid;height:2px;"><div class="d-block" style="border-color:#e1ebe2;border-style:none solid;height:2px;border-width:2px;"></div></div>    
+      <div class="d-block" style="border-color:#a6b2a6;border-width:2px;margin:0 4px;height:1px;margin:0 2px;border-style:none solid;"></div>
+      <div class="d-block" style="background:#a6b2a6;height:1px;margin:0 4px;border:0;"></div>
+    </div>
+    <!--container end-->
+  </div>
+  <div class="col-md-6  pl-md-2">
+    <!--top start-->
+    <div class="w-100" style="background:#e6ede4;font-size:13.5pt;border-radius:7.2px 7.2px 0 0">
+      <div class="d-block" style="background:#a6b2a6;height:1px;margin:0 4px;border:0;"></div>
+      <div class="d-block" style="border-color:#a6b2a6;border-width:2px;margin:0 4px;height:1px;position:relative;z-index:30;margin:0 2px;border-style:none solid;background:#F2FCF1;"></div>
+      <div class="d-block" style="border-color:#a6b2a6;margin:0 1px;border-width:1px;border-style:none solid;height:2px;"><div class="d-block" style="border-color:#F2FCF1;border-style:none solid;height:2px;border-width:2px;"></div></div>
+      <div style="border:1px solid #a6b2a6;border-top:none;">
+        <div style="height:30px;padding:0 64px 0 8px;border-left:1px solid #F2FCF1;border-right:1px solid #F2FCF1;">
+          <div class="pull-left" style="background:url(https://st.deviantart.net/minish/gruzecontrol/icons-small-modules.gif?14);height:24px;width:29px;background-position:-1440px 3px;"></div>
+           About
+          <div style="background:url(https://st.deviantart.net/minish/gruzecontrol/quadraforce.gif?6) 0 0;height:20px;width:15px;margin-top:-8px;margin-left:3px;position:relative;"></div>
+        </div>
+      </div>
+    </div><!--top end-->
+    
+    <!--container start-->
+    <div class="w-100 mb-3" style="border-radius:0 0 7.5px 7.5px;background:#dae4d9;">
+      <div style="border:1px solid #a6b2a6;border-top:none;border-bottom:none;">
+        <div class="d-block" style="background:#e1ebe2;height:1px;border:0;"></div>
+        <div class="mx-auto py-1 d-block" style="padding:0 8% 0 8%;">
+          <img src="https://f2.toyhou.se/file/f2-toyhou-se/users/admin?7" class="d-block mx-auto"/>
+          <div style="color:#196ba7;font-size:16pt;">UserHere</div>
+          <div style="color:#444;font-size:13pt;margin-top:6px;">Tagline</div>
+          <div style="color:#6D7866;font-size:13pt;">Artist | Hobbyist | Digital</div>
+          Country
+          
+          <p style="margin:20px 0;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur varius odio ac urna convallis sagittis. Morbi at suscipit ante. Sed scelerisque metus ultrices lacus lobortis, ac vehicula purus volutpat. Maecenas mi felis, commodo nec congue eget, pretium dictum mi.</p>
+          
+      <div class="accordion md-accordion" id="allclosed" role="tablist" aria-multiselectable="true" style="background:#e8ece3;border-radius:3px;">
+        <div role="tab" id="headingclosed1">
+          <a data-toggle="collapse" data-parent="#allclosed" href="#allclosed1" aria-expanded="false"
+        aria-controls="allclosed1" class="d-block" style="padding:10px;color:#196ba7;font-weight:bold;text-decoration:none;">Interests</a>
+        </div>
+        <div id="allclosed1" class="collapse" role="tabpanel" aria-labelledby="headingclosed1"
+      data-parent="#allclosed" style="padding-left:10px;padding-bottom:10px;margin-top:-10px;">
+         <div style="margin:10px 0 10px 0;"><strong>Favorite movies</strong><br />Answer</div>
+         <div style="margin-bottom:10px;"><strong>Favorite TV shows</strong><br />Answer</div>
+         <div style="margin-bottom:10px;"><strong>Favorite bands / musical artists</strong><br />Answer</div>
+         <div style="margin-bottom:10px;"><strong>Favorite books</strong><br />Answer</div>
+         <div style="margin-bottom:10px;"><strong>Favorite writers</strong><br />Answer</div>
+         <strong>Favorite games</strong><br />Answer
+        </div>
+      </div>
+      
+      <center style="padding:4px 0 0 0;"><a href="/VynxCodes" style="color:#196ba7">Coded by VynxCodes</a></center>
+      
+        </div>
+      </div>
+      <div class="d-block" style="border-color:#a6b2a6;margin:0 1px;border-width:1px;border-style:none solid;height:2px;"><div class="d-block" style="border-color:#e1ebe2;border-style:none solid;height:2px;border-width:2px;"></div></div>    
+      <div class="d-block" style="border-color:#a6b2a6;border-width:2px;margin:0 4px;height:1px;margin:0 2px;border-style:none solid;"></div>
+      <div class="d-block" style="background:#a6b2a6;height:1px;margin:0 4px;border:0;"></div>
+    </div><!--container end-->
+    
+    <!--top start-->
+    <div class="w-100" style="background:#e6ede4;font-size:13.5pt;border-radius:7.2px 7.2px 0 0">
+      <div class="d-block" style="background:#a6b2a6;height:1px;margin:0 4px;border:0;"></div>
+      <div class="d-block" style="border-color:#a6b2a6;border-width:2px;margin:0 4px;height:1px;position:relative;z-index:30;margin:0 2px;border-style:none solid;background:#F2FCF1;"></div>
+      <div class="d-block" style="border-color:#a6b2a6;margin:0 1px;border-width:1px;border-style:none solid;height:2px;">
+        <div class="d-block" style="border-color:#F2FCF1;border-style:none solid;height:2px;border-width:2px;"></div>
+      </div>
+      <div style="border:1px solid #a6b2a6;border-top:none;">
+        <div style="height:30px;padding:0 64px 0 8px;border-left:1px solid #F2FCF1;border-right:1px solid #F2FCF1;font-family:trebuchet ms,verdana,sans-serif;">
+          <div class="pull-left" style="background:url(https://st.deviantart.net/minish/gruzecontrol/icons-small-modules.gif?14);height:24px;width:29px;background-position:-120px 3px;"></div>
+          Friends
+          <div style="background:url(https://st.deviantart.net/minish/gruzecontrol/quadraforce.gif?6) 0 0;height:20px;width:15px;margin-top:-8px;margin-left:3px;position:relative;"></div>
+        </div>
+      </div>
+    </div><!--top end-->
+    
+    <!--container start-->
+    <div class="w-100 mb-3" style="border-radius:0 0 7.5px 7.5px;background:#dae4d9;">
+      <div style="border:1px solid #a6b2a6;border-top:none;border-bottom:none;">
+        <div class="d-block" style="background:#e1ebe2;height:1px;border:0;"></div>
+        
+        <div class="py-2 text-center" style="padding:0 8% 0 8%;">
+          
+          <div class="row no-gutters my-2">
+            <div class="col-3"><a href="/User1Here"><img src="https://f2.toyhou.se/file/f2-toyhou-se/users/admin?7" width="50" height="50"/></a></div>
+          
+            <div class="col-3"><a href="/User2Here"><img src="https://f2.toyhou.se/file/f2-toyhou-se/users/admin?7" width="50" height="50"/></a></div>
+          
+            <div class="col-3"><a href="/User3Here"><img src="https://f2.toyhou.se/file/f2-toyhou-se/users/admin?7" width="50" height="50"/></a></div>
+            
+            <div class="col-3"><a href="/User4Here"><img src="https://f2.toyhou.se/file/f2-toyhou-se/users/admin?7" width="50" height="50"/></a></div>
+          </div>
+
+        </div>
+      </div>
+      <div class="d-block" style="border-color:#a6b2a6;margin:0 1px;border-width:1px;border-style:none solid;height:2px;"><div class="d-block" style="border-color:#e1ebe2;border-style:none solid;height:2px;border-width:2px;"></div></div>    
+      <div class="d-block" style="border-color:#a6b2a6;border-width:2px;margin:0 4px;height:1px;margin:0 2px;border-style:none solid;"></div>
+      <div class="d-block" style="background:#a6b2a6;height:1px;margin:0 4px;border:0;"></div>
+    </div><!--container end-->
+    
+  </div>
+</div>
