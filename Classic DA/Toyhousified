@@ -1,1 +1,124 @@
-tba
+<div class="row no-gutters">
+  
+  <div class="col-md-6 pr-md-2">
+    
+    <div class="card d-block bg-dark text-light py-2 px-3" style="border-bottom-left-radius:0;border-bottom-right-radius:0;"><h3 class="mb-0"><i class="fas fa-star pr-1"/> Featured</h3></div>
+    <div class="card bg-faded px-3 pb-2 border-top-0 mb-3" style="border-top-left-radius:0;border-top-right-radius:0;">
+      
+      <!--tri start--><div class="text-dark" style="width:0;height:0;border-left:11px solid transparent;border-right:11px solid transparent;border-top:11px solid;margin-top:-1px;"></div><div style="width:0;height:0;color:rgba(255,255,255,.125);border-left:11px solid transparent;border-right:11px solid transparent;border-top:11px solid;margin-top:-11px;"></div><div class="text-dark mb-2" style="width:0;height:0;border-left:10px solid transparent;border-right:10px solid transparent;border-top:10px solid;margin-top:-11.5px;margin-left:1px;"></div><!--tri end-->
+    
+      <div class="text-center gallery-thumb character-thumb gallery-row gallery-item">
+        <div class="thumb-image mx-auto">
+          <a href="/CharaLinkHere" class="img-thumbnail"><img src="https://f2.toyhou.se/file/f2-toyhou-se/users/admin?7"></a>
+        </div>
+        <div class="col-12">
+          <div class="thumb-caption">
+            <span class="thumb-character-name"><a href="/CharaLinkHere" class="btn btn-sm btn-primary character-name-badge"> CharaNameHere</a>
+            </span>
+            <div class="small thumb-character-stats text-center">
+              <div class="inline-block" style="border:12px solid transparent;margin:-12px;">
+                <span class="thumb-character-stat">Small comment here</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <p>Some text here if you want to say more. Nunc nibh libero, vestibulum vitae aliquam vel, vehicula eu lectus. Curabitur malesuada purus erat, in luctus justo pharetra eget. Integer non ante elit.</p>
+      
+    </div>
+    
+    <div class="card d-block bg-dark text-light py-2 px-3" style="border-bottom-left-radius:0;border-bottom-right-radius:0;"><h3 class="mb-0"><i class="fas fa-memo pr-1"/> Title</h3></div>
+    <div class="card bg-faded px-3 pb-2 border-top-0 mb-3" style="border-top-left-radius:0;border-top-right-radius:0;">
+      
+      <!--tri start--><div class="text-dark" style="width:0;height:0;border-left:11px solid transparent;border-right:11px solid transparent;border-top:11px solid;margin-top:-1px;"></div><div style="width:0;height:0;color:rgba(255,255,255,.125);border-left:11px solid transparent;border-right:11px solid transparent;border-top:11px solid;margin-top:-11px;"></div><div class="text-dark mb-2" style="width:0;height:0;border-left:10px solid transparent;border-right:10px solid transparent;border-top:10px solid;margin-top:-11.5px;margin-left:1px;"></div><!--tri end-->
+      
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed justo tempor, pulvinar tortor vehicula, pellentesque sapien. Suspendisse potenti. Nulla a velit tempor, sagittis nisl varius, dictum lectus. Sed vitae eros molestie, accumsan dolor quis, finibus nisi. Nunc ultrices magna in eleifend varius. Nunc nibh libero, vestibulum vitae aliquam vel, vehicula eu lectus. Curabitur malesuada purus erat, in luctus justo pharetra eget. Integer non ante elit.</p>
+    </div>
+    
+    <div class="card d-block bg-dark text-light py-2 px-3" style="border-bottom-left-radius:0;border-bottom-right-radius:0;"><h3 class="mb-0"><i class="fas fa-paintbrush pr-1"/> Status</h3></div>
+    <div class="card bg-faded border-top-0 mb-3" style="border-top-left-radius:0;border-top-right-radius:0;">
+      
+      <!--tri start--><div class="mx-3 mb-n3"><div class="text-dark" style="width:0;height:0;border-left:11px solid transparent;border-right:11px solid transparent;border-top:11px solid;margin-top:-1px;"></div><div style="width:0;height:0;color:rgba(255,255,255,.125);border-left:11px solid transparent;border-right:11px solid transparent;border-top:11px solid;margin-top:-11px;"></div><div class="text-dark mb-2" style="width:0;height:0;border-left:10px solid transparent;border-right:10px solid transparent;border-top:10px solid;margin-top:-11.5px;margin-left:1px;"></div></div><!--tri end-->
+      
+      <center class="py-2"><a href="LINKHERE">ToS</a> | <a href="LINKHERE">Comm Info</a> | <a href="LINKHERE">Trello</a></center>
+      <table class="table table-striped border-0 mb-0">
+        <tbody>
+          <tr>
+            <td class="px-3"><i class="fas fa-message-dollar pr-1" style="width:20px;"/> Commissions</td>
+            <td>Status</td>
+          </tr>
+          <tr>
+            <td class="px-3"><i class="fas fa-exchange pr-1" style="width:20px;"/> Art Trades</td>
+            <td>Status</td>
+          </tr>
+          <tr>
+            <td class="px-3"><i class="fas fa-gift pr-1" style="width:20px;"/> Requests</td>
+            <td>Status</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+  
+  <div class="col-md-6 pl-md-2">
+    
+    <div class="card d-block bg-dark text-light py-2 px-3" style="border-bottom-left-radius:0;border-bottom-right-radius:0;"><h3 class="mb-0"><i class="fas fa-info-circle pr-1"/> About</h3></div>
+    <div class="card bg-faded px-3 pb-2 border-top-0 mb-3" style="border-top-left-radius:0;border-top-right-radius:0;">
+      
+      <!--tri start--><div class="text-dark" style="width:0;height:0;border-left:11px solid transparent;border-right:11px solid transparent;border-top:11px solid;margin-top:-1px;"></div><div style="width:0;height:0;color:rgba(255,255,255,.125);border-left:11px solid transparent;border-right:11px solid transparent;border-top:11px solid;margin-top:-11px;"></div><div class="text-dark mb-2" style="width:0;height:0;border-left:10px solid transparent;border-right:10px solid transparent;border-top:10px solid;margin-top:-11.5px;margin-left:1px;"></div><!--tri end-->
+      
+      <div class="thumb-image mx-auto"><img src="https://f2.toyhou.se/file/f2-toyhou-se/users/admin?7"/></div>
+      
+      <span class="display-4 text-primary">UserHere</span>
+      <big>Tagline</big>
+      <big class="text-muted" style="font-size:big;">Artist | Hobbyist | Digital</big>
+      <span>Country</span>
+      
+      <center><span data-toggle="tooltip" title="User#0000"><i class="fab fa-discord"/></span> | <a href="https://twitter.com/TwitterUserHere"><i class="fab fa-twitter"/></a> | <a href="https://deviantart.com/DAUserHere"><i class="fab fa-deviantart"/></a> | <a href="https://instagram.com/InstaUserHere"><i class="fab fa-instagram"/></a></center>
+      
+      <p class="my-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur varius odio ac urna convallis sagittis. Morbi at suscipit ante. Sed scelerisque metus ultrices lacus lobortis, ac vehicula purus volutpat. Maecenas mi felis, commodo nec congue eget, pretium dictum mi.</p>
+      
+      <div class="accordion md-accordion mt-2 rounded bg-dark text-light" id="allclosed" role="tablist">
+        <div role="tab" id="headingclosed1"><a data-toggle="collapse" data-parent="#allclosed" href="#allclosed1" aria-expanded="false" aria-controls="allclosed1" class="d-block p-2">Interests</a></div>
+        <div id="allclosed1" class="collapse mt-n2 pl-2 pb-2" role="tabpanel" aria-labelledby="headingclosed1" data-parent="#allclosed">
+          <div class="my-2"><strong>Favorite movies</strong><br />Answer</div>
+          <div class="mb-2"><strong>Favorite TV shows</strong><br />Answer</div>
+          <div class="mb-2"><strong>Favorite bands / musical artists</strong><br />Answer</div>
+          <div class="mb-2"><strong>Favorite books</strong><br />Answer</div>
+          <div class="mb-2"><strong>Favorite writers</strong><br />Answer</div>
+          <strong>Favorite games</strong><br />Answer
+        </div>
+      </div>
+      
+      <a href="/VynxCodes" class="d-inline-block text-center pt-2 small">Coded by VynxCodes</a>
+    </div>
+  
+    <div class="card d-block bg-dark text-light py-2 px-3" style="border-bottom-left-radius:0;border-bottom-right-radius:0;"><h3 class="mb-0"><i class="fas fa-user-group pr-1"/> Friends</h3></div>
+    <div class="card bg-faded border-top-0 mb-3" style="border-top-left-radius:0;border-top-right-radius:0;">
+      
+      <!--tri start--><div class="mx-3"><div class="text-dark" style="width:0;height:0;border-left:11px solid transparent;border-right:11px solid transparent;border-top:11px solid;margin-top:-1px;"></div><div style="width:0;height:0;color:rgba(255,255,255,.125);border-left:11px solid transparent;border-right:11px solid transparent;border-top:11px solid;margin-top:-11px;"></div><div class="text-dark mb-2" style="width:0;height:0;border-left:10px solid transparent;border-right:10px solid transparent;border-top:10px solid;margin-top:-11.5px;margin-left:1px;"></div></div><!--tri end-->
+      
+      <div class="row align-items-end text-center w-100 mx-auto">
+        <div class="col-4 col-sm-6 col-md-6 col-lg-4">
+          <div class="character-select-cell mb-3">
+            <div class="mb-1"><a href="/User1Here"><img src="https://f2.toyhou.se/file/f2-toyhou-se/users/admin?7" class="mw-100"/></a></div>
+            <div class="mb-1"><a href="/User1Here" class="btn btn-sm btn-default user-name-badge"><i class="fi-torso user-name-icon"/>User1Here</a></div>
+          </div>
+        </div>
+        <div class="col-4 col-sm-6 col-md-6 col-lg-4">
+          <div class="character-select-cell mb-3">
+            <div class="mb-1"><a href="/User2Here"><img src="https://f2.toyhou.se/file/f2-toyhou-se/users/admin?7" class="mw-100"/></a></div>
+            <div class="mb-1"><a href="/User2Here" class="btn btn-sm btn-default user-name-badge"><i class="fi-torso user-name-icon"/>User2Here</a></div>
+          </div>
+        </div>
+        <div class="col-4 col-sm-6 col-md-6 col-lg-4">
+          <div class="character-select-cell mb-3">
+            <div class="mb-1"><a href="/User3Here"><img src="https://f2.toyhou.se/file/f2-toyhou-se/users/admin?7" class="mw-100"/></a></div>
+            <div class="mb-1"><a href="https://toyhou.se/trashguts" class="btn btn-sm btn-default user-name-badge"><i class="fi-torso user-name-icon"/>User3Here</a></div>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</div>
