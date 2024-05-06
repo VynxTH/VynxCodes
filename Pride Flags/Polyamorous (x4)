@@ -7,6 +7,5 @@
 <!-- 3 (Cyan-Thin Hot Pink-Black) with symbol -->
 <div class="rounded d-inline-block" style="background-image:linear-gradient(#00c2ff,#00c2ff 40%,#ff006a 40%,#ff006a 60%,#0a1027 60%);line-height:20px;width:26px;"><div style="background:#fff url(https://images2.imgbox.com/60/c1/djlLaFhc_o.png) no-repeat center;background-size:40%;clip-path:circle(25%);">&nbsp;</div></div>
 
-<!-- 3 (Uncentered Triangle) -->
-
-<div class="rounded d-inline-block" style="background-image:linear-gradient(#019fe3,#019fe3 33.3%,#e50051 33.3%,#e50051 66.6%,#340c46 66.6%);line-height:20px;width:26px;"><div class="rounded d-inline-block" style="background:#fff;clip-path:polygon(100% 33.3%, 0 0, 0 100%);width:35%;">&nbsp;</div></div>
+<!-- 4 (Uncentered Triangle) with golden heart symbol -->
+<div class="rounded d-inline-block" style="background-image:linear-gradient(#019fe3,#019fe3 33.3%,#e50051 33.3%,#e50051 66.6%,#340c46 66.6%);line-height:20px;width:26px;"><div class="rounded d-inline-block" style="background:#fff;clip-path:polygon(0 0,38% 0,100% 33.5%,0% 100%);width:40%;"><div style="background:url(https://images2.imgbox.com/bd/b7/aKB53V1y_o.png) no-repeat center 25%;background-size:60%;">&nbsp;</div></div></div>
