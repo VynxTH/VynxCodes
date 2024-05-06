@@ -1,0 +1,5 @@
+<!-- Orange -->
+<div class="rounded d-inline-block" style="background-image:linear-gradient(#d62c00,#d62c00 14.3%,#f07528 14.3%,#f07528 28.6%,#ff9b57 28.6%,#ff9b57 42.9%,#fffcee 42.9%,#fffcee 57.2%,#ffcd88 57.2%,#ffcd88 71.5%,#ffad09 71.5%,#ffad09 85.8%,#a16f00 85.8%);line-height:20px;width:26px;">&nbsp;</div>
+
+<!-- Blue-Purple -->
+<div class="rounded d-inline-block" style="background-image:linear-gradient(#32406f,#32406f 14.3%,#6b7aa5 14.3%,#6b7aa5 28.6%,#8a92a9 28.6%,#8a92a9 42.9%,#edecea 42.9%,#edecea 57.2%,#c0b4dc 57.2%,#c0b4dc 71.5%,#764fc6 71.5%,#764fc6 85.8%,#51038a 85.8%);line-height:20px;width:26px;">&nbsp;</div>
