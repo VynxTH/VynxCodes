@@ -1,6 +1,9 @@
-<!-- 1 -->
+<!-- 1 yellow-pink-white-gray-black -->
 <div class="rounded d-inline-block" style="background-image:linear-gradient(#fff87d,#fff87d 20%,#ffaede 20%,#ffaede 40%,#fff 40%,#fff 60%,#7f7f7f 60%,#7f7f7f 80%,#0f0f0f 80%);line-height:20px;width:26px;">&nbsp;</div>
 
-<!-- 2 -->
+<!-- 2 pink-black-gray-white (with yellow heart)-->
+<div class="rounded d-inline-block" style="background-image:linear-gradient(#ff90ca,#ff90ca 14.3%,#2a2a2a 14.3%,#2a2a2a 28.6%,#7f7f7f 28.6%,#7f7f7f 42.9%,#fff 42.9%,#fff 57.2%,#7f7f7f 57.2%,#7f7f7f 71.5%,#2a2a2a 71.5%,#2a2a2a 85.8%,#ff90ca 85.8%);line-height:20px;width:26px;"><div style="background:url(https://images2.imgbox.com/ec/8e/uK6Nuu7q_o.png) no-repeat center;background-size:50%;">&nbsp;</div></div>
+
+<!-- 2 pink-black-gray-white (without yellow heart)-->
 <div class="rounded d-inline-block" style="background-image:linear-gradient(#ff90ca,#ff90ca 14.3%,#2a2a2a 14.3%,#2a2a2a 28.6%,#7f7f7f 28.6%,#7f7f7f 42.9%,#fff 42.9%,#fff 57.2%,#7f7f7f 57.2%,#7f7f7f 71.5%,#2a2a2a 71.5%,#2a2a2a 85.8%,#ff90ca 85.8%);line-height:20px;width:26px;">&nbsp;</div>
 
