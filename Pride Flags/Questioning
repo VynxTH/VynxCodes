@@ -1,0 +1,5 @@
+<!-- with question mark -->
+<div class="rounded d-inline-block" style="background-image:linear-gradient(#ed7735,#ed7735 25%,#f4ec2b 25%,#f4ec2b 50%,#5ab34d 50%,#5ab34d 75%,#5168b0 75%);line-height:20px;width:26px;"><div style="background:url(https://images2.imgbox.com/36/e9/b3gKMSym_o.png) no-repeat center;background-size:40%;">&nbsp;</div></div>
+
+<!--without question mark-->
+<div class="rounded d-inline-block" style="background-image:linear-gradient(#ed7735,#ed7735 25%,#f4ec2b 25%,#f4ec2b 50%,#5ab34d 50%,#5ab34d 75%,#5168b0 75%);line-height:20px;width:26px;">&nbsp;</div>
