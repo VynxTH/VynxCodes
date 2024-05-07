@@ -1,1 +1,5 @@
+<!-- with cat symbol -->
 <div class="rounded d-inline-block" style="background-image:linear-gradient(#ff7ab1,#ff7ab1 20%,#ffb3d2 20%,#ffb3d2 40%,#ca7aff 40%,#ca7aff 60%,#b3d6ff 60%,#b3d6ff 80%,#7bbeff 80%);line-height:20px;width:26px;"><div style="background:url(https://images2.imgbox.com/5f/33/sGzqsO4Z_o.png) no-repeat center;background-size:72%;">&nbsp;</div></div>
+
+<!-- without cat symbol -->
+<div class="rounded d-inline-block" style="background-image:linear-gradient(#ff7ab1,#ff7ab1 20%,#ffb3d2 20%,#ffb3d2 40%,#ca7aff 40%,#ca7aff 60%,#b3d6ff 60%,#b3d6ff 80%,#7bbeff 80%);line-height:20px;width:26px;">&nbsp;</div>
